@@ -1,0 +1,6 @@
+Confusion Matrix:
+ [[71  1]
+ [ 3 39]]
+Confusion Matrix:
+ [[71  1]
+ [ 1 41]]
